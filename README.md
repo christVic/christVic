@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @christVic
-- 👀 I’m interested in web development
+- 👀 I’m interested in computer sciences
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
