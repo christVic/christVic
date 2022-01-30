@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @christVic
 - 👀 I’m interested in computer sciences
-- 🌱 I’m currently learning Computer Science
+- 🌱 I’m currently learning IT Security
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 -->
